@@ -43,7 +43,7 @@ router.put('/:id', async (req, res) => {
     const genre = await Genre.findById(req.body.genreId)
     if (!genre) return res.status(404).send(error.details[0].message)
 
-    const movie = await Customer.findByIdAndUpdate(req.params.id, {
+    const movie = await Movie.findByIdAndUpdate(req.params.id, {
         title: req.body.title,
         numberInStock: req.body.numberInStock,
         dailyRentalRate: req.body.dailyRentalRate,
