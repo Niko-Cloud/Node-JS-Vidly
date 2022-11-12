@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Vidly.iml" filepath="$PROJECT_DIR$/.idea/Vidly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mongo-demo/.idea/mongo-demo.iml" filepath="$PROJECT_DIR$/../mongo-demo/.idea/mongo-demo.iml" />
     </modules>
   </component>
 </project>
