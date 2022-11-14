@@ -1,3 +1,4 @@
+
 const winston = require('winston')
 const express = require('express')
 const app = express()
@@ -9,4 +10,6 @@ require('./startup/config')()
 require('./startup/api')()
 
 const port = process.env.PORT || 3000
-app.listen(port,()=>winston.info(`Listening to ${port}`))
+const server =app.listen(port,()=>winston.info(`Listening to ${port}`))
+
+module.exports = server

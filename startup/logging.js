@@ -11,7 +11,7 @@ module.exports = function (){
     winston.exceptions.handle(new winston.transports.File({filename: 'uncaughtException.log'}))
 
     process.on("uncaughtException", (ex)=>{
-        new winston.transports.Console({colorize: true, prettyPrint:true})
+        winston.add(new winston.transports.Console({colorize: true, prettyPrint:true}))
         console.log('WE GOT AN UNCAUGHT EXCEPTION')
         winston.error(ex.message, ex)
     })

@@ -23,3 +23,278 @@
 {"level":"info","message":"Connected to MongoDB..."}
 {"level":"info","message":"Listening to 3000"}
 {"level":"info","message":"Connected to MongoDB..."}
+{"level":"error","message":"FATAL_ERROR: jwtPrivateKey is not defined FATAL_ERROR: jwtPrivateKey is not defined","stack":"Error: FATAL_ERROR: jwtPrivateKey is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\config.js:5:15)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:8:28)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"error","message":"app is not defined app is not defined","stack":"ReferenceError: app is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\routes.js:12:5)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:6:28)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"error","message":"FATAL_ERROR: jwtPrivateKey is not defined FATAL_ERROR: jwtPrivateKey is not defined","stack":"Error: FATAL_ERROR: jwtPrivateKey is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\config.js:5:15)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:8:28)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"error","message":"app is not defined app is not defined","stack":"ReferenceError: app is not defined\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:11:1)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"info","message":"Connected to MongoDB..."}
+{"level":"error","message":"missing ) after argument list missing ) after argument list","stack":"D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:11\n            winston.add(format:log.)\n                        ^^^^^^\n\nSyntaxError: missing ) after argument list\n    at Object.compileFunction (node:vm:360:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1055:15)\n    at Module._compile (node:internal/modules/cjs/loader:1090:27)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Module.require (node:internal/modules/cjs/loader:1028:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:1)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)"}
+{"level":"error","message":"missing ) after argument list missing ) after argument list","stack":"D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:11\n            winston.add(format:log.)\n                        ^^^^^^\n\nSyntaxError: missing ) after argument list\n    at Object.compileFunction (node:vm:360:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1055:15)\n    at Module._compile (node:internal/modules/cjs/loader:1090:27)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Module.require (node:internal/modules/cjs/loader:1028:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:1)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)"}
+{"level":"error","message":"missing ) after argument list missing ) after argument list","stack":"D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:11\n            winston.add(format:log.)\n                        ^^^^^^\n\nSyntaxError: missing ) after argument list\n    at Object.compileFunction (node:vm:360:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1055:15)\n    at Module._compile (node:internal/modules/cjs/loader:1090:27)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Module.require (node:internal/modules/cjs/loader:1028:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:1)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)"}
+{"level":"error","message":"missing ) after argument list missing ) after argument list","stack":"D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:10\n            winston.add(format:log.)\n                        ^^^^^^\n\nSyntaxError: missing ) after argument list\n    at compileFunction (<anonymous>)\n    at Object.compileFunction (node:vm:360:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1055:15)\n    at Module._compile (node:internal/modules/cjs/loader:1090:27)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Module.require (node:internal/modules/cjs/loader:1028:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:1)"}
+{"level":"error","message":"format is not defined format is not defined","stack":"ReferenceError: format is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:10:29)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"Missing initializer in const declaration Missing initializer in const declaration","stack":"D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:8\n    mongoose.connect()\n    ^^^^^^^^\n\nSyntaxError: Missing initializer in const declaration\n    at compileFunction (<anonymous>)\n    at Object.compileFunction (node:vm:360:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1055:15)\n    at Module._compile (node:internal/modules/cjs/loader:1090:27)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Module.require (node:internal/modules/cjs/loader:1028:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:1)"}
+{"level":"error","message":"format is not defined format is not defined","stack":"ReferenceError: format is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:11:29)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'simple') Cannot read properties of undefined (reading 'simple')","stack":"TypeError: Cannot read properties of undefined (reading 'simple')\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:11:36)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"log is not a function log is not a function","stack":"TypeError: log is not a function\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:11:25)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"Unexpected token '.' Unexpected token '.'","stack":"D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:12\n                winston.format.simple()\n                       ^\n\nSyntaxError: Unexpected token '.'\n    at Object.compileFunction (node:vm:360:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1055:15)\n    at Module._compile (node:internal/modules/cjs/loader:1090:27)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Module.require (node:internal/modules/cjs/loader:1028:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:1)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)"}
+{"level":"error","message":"log is not a function log is not a function","stack":"TypeError: log is not a function\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:11:25)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"log is not a function log is not a function","stack":"TypeError: log is not a function\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:11:25)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"logger is not defined logger is not defined","stack":"ReferenceError: logger is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:11:13)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"log is not a function log is not a function","stack":"TypeError: log is not a function\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:12:25)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"error","message":"log is not a function log is not a function","stack":"TypeError: log is not a function\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:12:25)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"format is not defined format is not defined","stack":"ReferenceError: format is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:13:25)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"Unexpected token '.' Unexpected token '.'","stack":"D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:13\n               format.simple\n                     ^\n\nSyntaxError: Unexpected token '.'\n    at Object.compileFunction (node:vm:360:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1055:15)\n    at Module._compile (node:internal/modules/cjs/loader:1090:27)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Module.require (node:internal/modules/cjs/loader:1028:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:1)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)"}
+{"level":"error","message":"log is not a function log is not a function","stack":"TypeError: log is not a function\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:12:25)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"log is not a function log is not a function","stack":"TypeError: log is not a function\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:12:25)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:24)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"Unexpected token 'const' Unexpected token 'const'","stack":"D:\\Tutorial\\Node-JS-Vidly\\startup\\db.js:8\n    const db = config.get('db')\n    ^^^^^\n\nSyntaxError: Unexpected token 'const'\n    at compileFunction (<anonymous>)\n    at Object.compileFunction (node:vm:360:18)\n    at wrapSafe (node:internal/modules/cjs/loader:1055:15)\n    at Module._compile (node:internal/modules/cjs/loader:1090:27)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Module.require (node:internal/modules/cjs/loader:1028:19)\n    at require (node:internal/modules/cjs/helpers:102:18)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:7:1)"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"FATAL_ERROR: jwtPrivateKey is not defined FATAL_ERROR: jwtPrivateKey is not defined","stack":"Error: FATAL_ERROR: jwtPrivateKey is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\config.js:5:15)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:9:28)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"1\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"1\"","value":"1","valueType":"string"}}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"id is not defined","metadata":{}}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"id is not defined","metadata":{}}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"id is not defined","metadata":{}}
+{"level":"error","message":"id is not defined","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'ObjectId')","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"id is not defined","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Unexpected token } in JSON at position 29","metadata":{"body":"{\r\n    \"name\": \"Yuria Uwu\",\r\n}","expose":true,"status":400,"statusCode":400,"type":"entity.parse.failed"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}

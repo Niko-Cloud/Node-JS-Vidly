@@ -4,8 +4,18 @@
     <list default="true" id="dd414314-b391-430a-aeeb-e1368ed1c2ae" name="Changes" comment="Making the router">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/default.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/default.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/logfile.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware/auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/auth.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/genre.js" beforeDir="false" afterPath="$PROJECT_DIR$/models/genre.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/genres.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/genres.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startup/db.js" beforeDir="false" afterPath="$PROJECT_DIR$/startup/db.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startup/logging.js" beforeDir="false" afterPath="$PROJECT_DIR$/startup/logging.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startup/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/startup/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uncaughtException.log" beforeDir="false" afterPath="$PROJECT_DIR$/uncaughtException.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,32 +39,92 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Tutorial/Node_Tutorial/Vidly",
-    "nodejs.jest.jest_package": "D:/Tutorial/Node_Tutorial/Vidly/node_modules/jest",
+    "last_opened_file_path": "D:/Tutorial/Learning-Node-With-Mosh-master/Learning-Node-With-Mosh-master/vidly",
+    "nodejs.jest.jest_package": "D:/Tutorial/Node-JS-Vidly/node_modules/jest",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "terminal",
+    "settings.editor.selected.configurable": "editing.templates",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="user.generateAuthToken.should return a valid JWT" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Jest.auth middleware.should populate req.user with the payload of a valid JWT">
+    <configuration name="/api/genres.POST /" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="SUITE" />
+      <test-file value="$PROJECT_DIR$/tests/integration/genres.test.js" />
+      <test-names>
+        <test-name value="/api/genres" />
+        <test-name value="POST /" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="auth middleware.should populate req.user with the payload of a valid JWT" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/tests/unit/models/user.test.js" />
+      <test-file value="$PROJECT_DIR$/tests/unit/middleware/auth.test.js" />
       <test-names>
-        <test-name value="user.generateAuthToken" />
-        <test-name value="should return a valid JWT" />
+        <test-name value="auth middleware" />
+        <test-name value="should populate req.user with the payload of a valid JWT" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="auth middleware.should return 200 if token is valid" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/integration/auth.test.js" />
+      <test-names>
+        <test-name value="auth middleware" />
+        <test-name value="should return 200 if token is valid" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="auth middleware.should return 400 if token is invalid" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/integration/auth.test.js" />
+      <test-names>
+        <test-name value="auth middleware" />
+        <test-name value="should return 400 if token is invalid" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="auth middleware.should return 401 if no token is provided" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/integration/auth.test.js" />
+      <test-names>
+        <test-name value="auth middleware" />
+        <test-name value="should return 401 if no token is provided" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest.user.generateAuthToken.should return a valid JWT" />
+        <item itemvalue="Jest.auth middleware.should populate req.user with the payload of a valid JWT" />
+        <item itemvalue="Jest.auth middleware.should return 200 if token is valid" />
+        <item itemvalue="Jest.auth middleware.should return 400 if token is invalid" />
+        <item itemvalue="Jest.auth middleware.should return 401 if no token is provided" />
+        <item itemvalue="Jest./api/genres.POST /" />
       </list>
     </recent_temporary>
   </component>
@@ -80,6 +150,8 @@
       <workItem from="1668305286779" duration="606000" />
       <workItem from="1668341683056" duration="2136000" />
       <workItem from="1668414865236" duration="1862000" />
+      <workItem from="1668430989715" duration="4592000" />
+      <workItem from="1668436624688" duration="4714000" />
     </task>
     <task id="LOCAL-00001" summary="Making the router">
       <created>1667822268506</created>
