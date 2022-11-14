@@ -3,42 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dd414314-b391-430a-aeeb-e1368ed1c2ae" name="Changes" comment="Add Put Integration Testing">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/clover.xml" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/clover.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/coverage-final.json" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/coverage-final.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/index.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/index.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/admin.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/admin.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/async.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/async.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/auth.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/auth.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/error.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/error.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/validateObjetId.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/middleware/validateObjetId.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/customer.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/customer.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/genre.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/genre.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/movie.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/movie.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/rental.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/rental.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/user.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/models/user.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/auth.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/auth.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/customers.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/customers.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/genres.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/genres.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/movies.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/movies.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/rentals.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/rentals.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/users.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/routes/users.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/api.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/api.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/config.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/config.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/db.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/db.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/logging.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/logging.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/routes.js.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/Node-JS-Vidly/startup/routes.js.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov-report/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov-report/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/coverage/lcov.info" beforeDir="false" afterPath="$PROJECT_DIR$/coverage/lcov.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/logfile.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/genres.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/genres.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/integration/genres.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/integration/genres.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +143,7 @@
       <workItem from="1668341683056" duration="2136000" />
       <workItem from="1668414865236" duration="1862000" />
       <workItem from="1668430989715" duration="4592000" />
-      <workItem from="1668436624688" duration="8050000" />
+      <workItem from="1668436624688" duration="8280000" />
     </task>
     <task id="LOCAL-00001" summary="Making the router">
       <created>1667822268506</created>
@@ -202,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668441652240</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add Put Integration Testing">
+      <created>1668444924932</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668444924932</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
