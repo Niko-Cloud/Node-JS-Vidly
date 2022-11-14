@@ -342,3 +342,110 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
 {"level":"info","message":"Listening to 3000"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Unexpected string in JSON at position 95","metadata":{"body":"{\r\n    \"name\": \"Shirayuki\",\r\n    \"email\" : \"shirayuki@mail.com\",\r\n    \"password\":\"123456\"\r\n    \"isAdmin\":true\r\n}","expose":true,"status":400,"statusCode":400,"type":"entity.parse.failed"}}
+{"level":"error","message":"Unexpected token } in JSON at position 92","metadata":{"body":"{\r\n    \"name\": \"Shirayuki\",\r\n    \"email\" : \"shirayuki@mail.com\",\r\n    \"password\":\"123456\",\r\n}","expose":true,"status":400,"statusCode":400,"type":"entity.parse.failed"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}

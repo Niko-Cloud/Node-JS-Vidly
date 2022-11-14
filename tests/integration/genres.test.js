@@ -141,5 +141,56 @@ describe('/api/genres', ()=> {
             expect(res.body).toMatchObject(schema);
         });
     });
+
+    describe("PUT /", () => {
+        let token, upName
+        let objectId
+
+        beforeEach(() => {
+            token = new User({ isAdmin: true }).generateAuthToken();
+            upName = "genre2"
+            objectId = new mongoose.Types.ObjectId()
+        });
+
+        const exec = () => {
+            return request(server)
+                .put(`/api/genres/${objectId}`)
+                .set("x-auth-token", token)
+                .send({ name: upName })
+        };
+
+        it("should return error 400 if name is less than 5 characters", async () => {
+            upName = "12";
+            const res = await exec()
+            expect(res.status).toBe(400)
+        });
+
+        it("should return error 400 if name is less than 50 characters", async () => {
+            upName = new Array(52).join("a")
+            const res = await exec()
+            expect(res.status).toBe(400)
+        });
+
+        it("should return 500 if id is invalid", async () => {
+            objectId = "a"
+            const res = await exec()
+            expect(res.status).toBe(500)
+        });
+
+        it("should return 404 if id is not found", async () => {
+            const res = await exec()
+            expect(res.status).toBe(404)
+        });
+
+        it("should return 200 if update is succesful", async () => {
+            const genre = await new Genre({ name: "genre1", _id: objectId }).save();
+            const res = await exec()
+            expect(res.status).toBe(200)
+            expect(res.body).toMatchObject({
+                _id: genre._id.toHexString(),
+                name: "genre2"
+            });
+        });
+    });
 });
 
