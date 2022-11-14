@@ -101,7 +101,45 @@ describe('/api/genres', ()=> {
             expect(res.body).toHaveProperty('_id')
             expect(res.body).toHaveProperty('name', 'genre1')
         });
+    });
 
+    describe("DELETE /", () => {
+        let token;
+        let objectId = "";
+
+        beforeEach(() => {
+            token = new User({ isAdmin: true }).generateAuthToken();
+        });
+
+        const exec = () => {
+            return request(server)
+                .delete(`/api/genres/${objectId}`)
+                .set("x-auth-token", token);
+        };
+
+        it("should return 404 if id is invalid", async () => {
+            const res = await exec();
+            expect(res.status).toBe(404);
+        });
+
+        it("should return 404 if id not found", async () => {
+            objectId = new mongoose.Types.ObjectId();
+            const res = await exec();
+            expect(res.status).toBe(404);
+        });
+
+        it("should return 200 if genre deleted successfully", async () => {
+            objectId = new mongoose.Types.ObjectId();
+            const schema = {
+                _id: objectId.toHexString(),
+                name: "genre1"
+            };
+            const genre = await new Genre(schema)
+            genre.save();
+            const res = await exec();
+            expect(res.status).toBe(200);
+            expect(res.body).toMatchObject(schema);
+        });
     });
 });
 
