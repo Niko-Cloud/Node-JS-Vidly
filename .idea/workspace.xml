@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd414314-b391-430a-aeeb-e1368ed1c2ae" name="Changes" comment="Add Put Integration Testing">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/returns.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/integration/returns.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/logfile.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/rentals.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/rentals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/startup/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/startup/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/integration/auth.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/integration/auth.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/integration/genres.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/integration/genres.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,100 +30,96 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Tutorial/Learning-Node-With-Mosh-master/Learning-Node-With-Mosh-master/vidly",
-    "nodejs.jest.jest_package": "D:/Tutorial/Node-JS-Vidly/node_modules/jest",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Tutorial/Learning-Node-With-Mosh-master/Learning-Node-With-Mosh-master/vidly&quot;,
+    &quot;nodejs.jest.jest_package&quot;: &quot;D:/Tutorial/Node-JS-Vidly/node_modules/jest&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Jest./api/genres.PUT /.should return 500 if id is invalid">
-    <configuration name="/api/genres" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+}</component>
+  <component name="RunManager" selected="Jest./api/returns.should return 401 if client is not logged in">
+    <configuration name="/api/returns" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/tests/integration/genres.test.js" />
+      <test-file value="$PROJECT_DIR$/tests/integration/returns.test.js" />
       <test-names>
-        <test-name value="/api/genres" />
+        <test-name value="/api/returns" />
       </test-names>
       <method v="2" />
     </configuration>
-    <configuration name="/api/genres.PUT /" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+    <configuration name="/api/returns.should return 400 if customer id is not provided" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/integration/returns.test.js" />
+      <test-names>
+        <test-name value="/api/returns" />
+        <test-name value="should return 400 if customer id is not provided" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="/api/returns.should return 400 if movie id is not provided" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/integration/returns.test.js" />
+      <test-names>
+        <test-name value="/api/returns" />
+        <test-name value="should return 400 if movie id is not provided" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="/api/returns.should return 401 if client is not logged in" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/tests/integration/returns.test.js" />
+      <test-names>
+        <test-name value="/api/returns" />
+        <test-name value="should return 401 if client is not logged in" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="auth middleware" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
       <jest-package value="$PROJECT_DIR$/node_modules/jest" />
       <working-dir value="$PROJECT_DIR$" />
       <envs />
       <scope-kind value="SUITE" />
-      <test-file value="$PROJECT_DIR$/tests/integration/genres.test.js" />
+      <test-file value="$PROJECT_DIR$/tests/integration/auth.test.js" />
       <test-names>
-        <test-name value="/api/genres" />
-        <test-name value="PUT /" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="/api/genres.PUT /.should return 400 error if the genre exist" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/tests/integration/genres.test.js" />
-      <test-names>
-        <test-name value="/api/genres" />
-        <test-name value="PUT /" />
-        <test-name value="should return 400 error if the genre exist" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="/api/genres.PUT /.should return 404 if id is invalid" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/tests/integration/genres.test.js" />
-      <test-names>
-        <test-name value="/api/genres" />
-        <test-name value="PUT /" />
-        <test-name value="should return 404 if id is invalid" />
-      </test-names>
-      <method v="2" />
-    </configuration>
-    <configuration name="/api/genres.PUT /.should return 500 if id is invalid" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
-      <node-interpreter value="project" />
-      <node-options value="" />
-      <jest-package value="$PROJECT_DIR$/node_modules/jest" />
-      <working-dir value="$PROJECT_DIR$" />
-      <envs />
-      <scope-kind value="TEST" />
-      <test-file value="$PROJECT_DIR$/tests/integration/genres.test.js" />
-      <test-names>
-        <test-name value="/api/genres" />
-        <test-name value="PUT /" />
-        <test-name value="should return 500 if id is invalid" />
+        <test-name value="auth middleware" />
       </test-names>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Jest./api/genres.PUT /.should return 500 if id is invalid" />
-        <item itemvalue="Jest./api/genres.PUT /" />
-        <item itemvalue="Jest./api/genres.PUT /.should return 400 error if the genre exist" />
-        <item itemvalue="Jest./api/genres" />
-        <item itemvalue="Jest./api/genres.PUT /.should return 404 if id is invalid" />
+        <item itemvalue="Jest./api/returns.should return 401 if client is not logged in" />
+        <item itemvalue="Jest./api/returns" />
+        <item itemvalue="Jest./api/returns.should return 400 if customer id is not provided" />
+        <item itemvalue="Jest./api/returns.should return 400 if movie id is not provided" />
+        <item itemvalue="Jest.auth middleware" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +146,8 @@
       <workItem from="1668341683056" duration="2136000" />
       <workItem from="1668414865236" duration="1862000" />
       <workItem from="1668430989715" duration="4592000" />
-      <workItem from="1668436624688" duration="8280000" />
+      <workItem from="1668436624688" duration="9713000" />
+      <workItem from="1668523777366" duration="2751000" />
     </task>
     <task id="LOCAL-00001" summary="Making the router">
       <created>1667822268506</created>
