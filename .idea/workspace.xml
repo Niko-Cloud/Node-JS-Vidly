@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd414314-b391-430a-aeeb-e1368ed1c2ae" name="Changes" comment="&quot;Finishing Returns Testing&quot;">
-      <change afterPath="$PROJECT_DIR$/startup/prod.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logfile.log" beforeDir="false" afterPath="$PROJECT_DIR$/logfile.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uncaughtException.log" beforeDir="false" afterPath="$PROJECT_DIR$/uncaughtException.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/custom-environment-variables.json" beforeDir="false" afterPath="$PROJECT_DIR$/config/custom-environment-variables.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +145,7 @@
       <workItem from="1668523777366" duration="2751000" />
       <workItem from="1668526581683" duration="44000" />
       <workItem from="1668583078982" duration="12679000" />
-      <workItem from="1668596230552" duration="167000" />
+      <workItem from="1668596230552" duration="1332000" />
     </task>
     <task id="LOCAL-00001" summary="Making the router">
       <created>1667822268506</created>
