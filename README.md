@@ -1,4 +1,4 @@
-you can visit the heroku deployment in https://secure-sea-59984.herokuapp.com
+you can visit the heroku deployment in https://secure-sea-59984.herokuapp.com/api/genres
 
 --this is purely backend code from mosh tutorial
 --add /api/users to create new account with postman and format json
