@@ -632,3 +632,511 @@
 {"level":"info","message":"Listening to 3000"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
 {"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"FATAL_ERROR: jwtPrivateKey is not defined FATAL_ERROR: jwtPrivateKey is not defined","stack":"Error: FATAL_ERROR: jwtPrivateKey is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\config.js:5:15)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:9:28)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"`Model.findOne()` cannot run without a model as `this`. Make sure you are not calling `new Model.findOne()`","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"FATAL_ERROR: jwtPrivateKey is not defined FATAL_ERROR: jwtPrivateKey is not defined","stack":"Error: FATAL_ERROR: jwtPrivateKey is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\config.js:5:15)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:9:28)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"FATAL_ERROR: jwtPrivateKey is not defined FATAL_ERROR: jwtPrivateKey is not defined","stack":"Error: FATAL_ERROR: jwtPrivateKey is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\config.js:5:15)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:9:28)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"error","message":"FATAL_ERROR: jwtPrivateKey is not defined FATAL_ERROR: jwtPrivateKey is not defined","stack":"Error: FATAL_ERROR: jwtPrivateKey is not defined\n    at module.exports (D:\\Tutorial\\Node-JS-Vidly\\startup\\config.js:5:15)\n    at Object.<anonymous> (D:\\Tutorial\\Node-JS-Vidly\\index.js:9:28)\n    at Module._compile (node:internal/modules/cjs/loader:1126:14)\n    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1180:10)\n    at Module.load (node:internal/modules/cjs/loader:1004:32)\n    at Function.Module._load (node:internal/modules/cjs/loader:839:12)\n    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)\n    at node:internal/main/run_main_module:17:47"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Converting circular structure to JSON\n    --> starting at object with constructor 'MongoClient'\n    |     property 's' -> object with constructor 'Object'\n    |     property 'sessionPool' -> object with constructor 'ServerSessionPool'\n    --- property 'client' closes the circle","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"unsupported charset \"UTF-8\"","metadata":{"charset":"utf-8","message":"unsupported charset \"UTF-8\"","type":"charset.unsupported"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'exists')","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","metadata":{"kind":"ObjectId","message":"Cast to ObjectId failed for value \"a\" (type string) at path \"_id\" for model \"Genre\"","name":"CastError","path":"_id","reason":{},"stringValue":"\"a\"","value":"a","valueType":"string"}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"movie.save is not a function","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"error","message":"Joi.ObjectId is not a function","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"movie is not defined","metadata":{}}
+{"level":"error","message":"movie is not defined","metadata":{}}
+{"level":"error","message":"movie is not defined","metadata":{}}
+{"level":"error","message":"movie is not defined","metadata":{}}
+{"level":"error","message":"movie is not defined","metadata":{}}
+{"level":"error","message":"movie is not defined","metadata":{}}
+{"level":"error","message":"movie is not defined","metadata":{}}
+{"level":"error","message":"movie is not defined","metadata":{}}
+{"level":"error","message":"movie is not defined","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"error","message":"schema.validateReturn is not a function","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"error","message":"req is not defined","metadata":{}}
+{"level":"error","message":"req is not defined","metadata":{}}
+{"level":"error","message":"req is not defined","metadata":{}}
+{"level":"error","message":"req is not defined","metadata":{}}
+{"level":"error","message":"req is not defined","metadata":{}}
+{"level":"error","message":"req is not defined","metadata":{}}
+{"level":"error","message":"req is not defined","metadata":{}}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
+{"level":"info","message":"Listening to 3000"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_test"}
